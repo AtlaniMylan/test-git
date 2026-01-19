@@ -1,4 +1,0 @@
-git status
-git add test.txt2
-git commit m "Ajout du fichier test"
-git push
